@@ -1,12 +1,12 @@
-module github.com/lrstanley/go-ytdlp/cmd/gen-jsonschema
+module github.com/NexonSU/go-ytdlp/cmd/gen-jsonschema
 
 go 1.24.4
 
-replace github.com/lrstanley/go-ytdlp => ../..
+replace github.com/NexonSU/go-ytdlp => ../..
 
 require (
 	github.com/invopop/jsonschema v0.13.0
-	github.com/lrstanley/go-ytdlp v1.2.2
+	github.com/NexonSU/go-ytdlp v1.2.2
 )
 
 require (

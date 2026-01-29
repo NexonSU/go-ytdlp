@@ -42,14 +42,14 @@ guidelines outlined in our [security policy][security].
 See [`CONTRIBUTING.md`][contributing] on how to contribute.
 
 <!-- definitions -->
-[coc]: https://github.com/lrstanley/go-ytdlp/blob/master/.github/CODE_OF_CONDUCT.md
-[contributing]: https://github.com/lrstanley/go-ytdlp/blob/master/.github/CONTRIBUTING.md
-[discussions]: https://github.com/lrstanley/go-ytdlp/discussions/categories/q-a
-[issues]: https://github.com/lrstanley/go-ytdlp/issues/new/choose
-[license]: https://github.com/lrstanley/go-ytdlp/blob/master/LICENSE
-[pull-requests]: https://github.com/lrstanley/go-ytdlp/issues/new/choose
-[security]: https://github.com/lrstanley/go-ytdlp/security/policy
-[support]: https://github.com/lrstanley/go-ytdlp/blob/master/.github/SUPPORT.md
+[coc]: https://github.com/NexonSU/go-ytdlp/blob/master/.github/CODE_OF_CONDUCT.md
+[contributing]: https://github.com/NexonSU/go-ytdlp/blob/master/.github/CONTRIBUTING.md
+[discussions]: https://github.com/NexonSU/go-ytdlp/discussions/categories/q-a
+[issues]: https://github.com/NexonSU/go-ytdlp/issues/new/choose
+[license]: https://github.com/NexonSU/go-ytdlp/blob/master/LICENSE
+[pull-requests]: https://github.com/NexonSU/go-ytdlp/issues/new/choose
+[security]: https://github.com/NexonSU/go-ytdlp/security/policy
+[support]: https://github.com/NexonSU/go-ytdlp/blob/master/.github/SUPPORT.md
 
 [xy]: https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem/66378#66378
 [chat]: https://liam.sh/chat

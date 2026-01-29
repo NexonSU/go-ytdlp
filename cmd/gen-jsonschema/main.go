@@ -12,8 +12,8 @@ import (
 	"slices"
 	"sort"
 
+	"github.com/NexonSU/go-ytdlp"
 	"github.com/invopop/jsonschema"
-	"github.com/lrstanley/go-ytdlp"
 )
 
 type UIDMapper struct {

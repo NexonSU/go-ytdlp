@@ -112,11 +112,11 @@ Below are a few guidelines if you would like to contribute:
    * [Code of Conduct][coc].
 
 <!-- definitions -->
-[coc]: https://github.com/lrstanley/go-ytdlp/blob/master/.github/CODE_OF_CONDUCT.md
+[coc]: https://github.com/NexonSU/go-ytdlp/blob/master/.github/CODE_OF_CONDUCT.md
 [dco]: https://developercertificate.org/
-[discussions]: https://github.com/lrstanley/go-ytdlp/discussions
-[issues]: https://github.com/lrstanley/go-ytdlp/issues/new/choose
-[license]: https://github.com/lrstanley/go-ytdlp/blob/master/LICENSE
-[pull-requests]: https://github.com/lrstanley/go-ytdlp/pulls?q=is%3Aopen+is%3Apr
-[security]: https://github.com/lrstanley/go-ytdlp/security/policy
-[support]: https://github.com/lrstanley/go-ytdlp/blob/master/.github/SUPPORT.md
+[discussions]: https://github.com/NexonSU/go-ytdlp/discussions
+[issues]: https://github.com/NexonSU/go-ytdlp/issues/new/choose
+[license]: https://github.com/NexonSU/go-ytdlp/blob/master/LICENSE
+[pull-requests]: https://github.com/NexonSU/go-ytdlp/pulls?q=is%3Aopen+is%3Apr
+[security]: https://github.com/NexonSU/go-ytdlp/security/policy
+[support]: https://github.com/NexonSU/go-ytdlp/blob/master/.github/SUPPORT.md

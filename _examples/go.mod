@@ -1,15 +1,15 @@
-module github.com/lrstanley/go-ytdlp/_examples
+module github.com/NexonSU/go-ytdlp/_examples
 
 go 1.23.0
 
-replace github.com/lrstanley/go-ytdlp => ../
+replace github.com/NexonSU/go-ytdlp => ../
 
 require (
 	github.com/charmbracelet/bubbles v0.21.0
 	github.com/charmbracelet/bubbletea v1.3.6
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/dustin/go-humanize v1.0.1
-	github.com/lrstanley/go-ytdlp v1.2.2
+	github.com/NexonSU/go-ytdlp v1.2.2
 	github.com/samber/slog-http v1.7.0
 )
 

@@ -189,7 +189,7 @@ func downloadFile(ctx context.Context, url, targetDir, targetName string, perms 
 		return "", fmt.Errorf("unable to download go-ytdlp dependent file %q: request creation: %w", dest, err)
 	}
 
-	req.Header.Set("User-Agent", "github.com/lrstanley/go-ytdlp; version/"+Version)
+	req.Header.Set("User-Agent", "github.com/NexonSU/go-ytdlp; version/"+Version)
 
 	resp, err := client.Do(req)
 	if err != nil {

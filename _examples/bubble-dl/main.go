@@ -12,12 +12,12 @@ import (
 	"strings"
 	"time"
 
+	"github.com/NexonSU/go-ytdlp"
 	"github.com/charmbracelet/bubbles/progress"
 	"github.com/charmbracelet/bubbles/spinner"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 	"github.com/dustin/go-humanize"
-	"github.com/lrstanley/go-ytdlp"
 )
 
 const slowDownload = true
